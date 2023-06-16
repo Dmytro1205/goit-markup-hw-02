@@ -177,5 +177,5 @@
   text-decoration: none;
 }
 .team-img {
-  background-color: #ffffff;
+  background-color: var(--bg-white);
 }
